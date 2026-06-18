@@ -28,4 +28,4 @@ replay_pid*
 **/.DS_Store
 
 # Target files
-musicgame/target/
+target/
